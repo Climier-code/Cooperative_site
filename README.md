@@ -1,7 +1,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/Climier-code/Cooperative_site?style=plastic)
 
 # 게임으로 배우는 협동조합이란?(SPA_Single Page Applicaion)
-
+> 해달프로그래밍 인턴의 업무로 홈페이지 제작_외주
 ## Preview_gif
 <a title="Gif_View"><img src="https://github.com/Climier-code/Cooperative_site/blob/main/Finish_gifView.gif" ></a>
 
